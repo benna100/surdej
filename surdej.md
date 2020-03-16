@@ -1,18 +1,28 @@
 # Surdej surdej surdej
 
+## Program
+
+### Tirsdag
+- Kort introduktion
+- Min erfaring med surdejsbrød
+- Hvad kan i forvente af det her kursus?
+  - Vi laver sammen en surdej
+  - Fokus er på at bage boller der er nemme at lave og som smager godt!
+  - Det er en introduktion til surdejens verden!
+  - Jeg synes lidt der mangler en nem intro til surdej.
+  - Spørg spørg spørg
 - Hvad er et surdejsbrød og hvorfor er det blevet så populært
+  - Det er sådan brød altid er blevet bagt
   - Hvorfor er surdejsbrød sundt?
+    - Langsom fermentering gør det nemmere for os at optage næringsindholdet. 
+    - Surdejsbrød har mendre gluten. Det bliver spist af gæren
+    - Læs mere her: https://www.healthline.com/nutrition/sourdough-bread#section6
 - Hvad er en surdej?
   - Mel og vand
   - Gærceller
   - Lactobasillus - bakterie
-- Hvordan holder man en surdej?
-  - Hælder halvdelen fra, tilsætter 50:50 mel og vand, så der er lige så meget surdej som der var før du startede
-  - To formål
-    1. Ska du bage?
-      - Regn ud hvor meget surdej du skal bruge. Husk der skal være lidt ekstra for at fortsætte surdejen.
-    2. Ska du bare holde surdejen i live?
-      - Bare spæd op med 40 g i alt
+ 
+Lad os lave den første surdej!
       
 ## Starte surdejen
 - Dag 1
