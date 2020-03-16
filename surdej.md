@@ -13,6 +13,21 @@
       - Regn ud hvor meget surdej du skal bruge. Husk der skal være lidt ekstra for at fortsætte surdejen.
     2. Ska du bare holde surdejen i live?
       - Bare spæd op med 40 g i alt
+      
+- Starte surdejen
+  - Dag 1
+    - 100 g lunkent vand
+    - 100 g mel
+    - Klæde over
+  - Dag 2
+    - 100 g surdej fra igår
+    - 50 g lunkent vand
+    - 50 g mel
+  - Dag 3
+    - 50 g surdej fra igår
+    - 75 g lunkent vand
+    - 75 g mel
+
 - Bage surdejsboller
   - Aktiver din surdej 8 timer før
   - Lav en dej der ikke er alt for løbende
