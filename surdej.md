@@ -23,15 +23,12 @@
   - Mel og vand
   - Gærceller
   - Lactobasillus - bakterie
+- Hvad sker der når man bager et surdejsbrød?
+- Hvilket mel?
+  - Højt glutenindhold
  
 Lad os lave den første surdej!
 
-## Hvad sker der når man bager et surdejsbrød?
-
-
-## Hvilket mel?
-Højt glutenindhold
-      
 ## Starte surdejen
 - Dag 1
   - 100 g lunkent vand
