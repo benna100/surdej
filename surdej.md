@@ -15,11 +15,14 @@
   - Opfordre til at gå lidt længere med at hjælpe andre!
 - Hvad er et surdejsbrød og hvorfor er det blevet så populært
   - Det er sådan brød altid er blevet bagt
-  - Hvorfor er surdejsbrød sundt?
-    - Langsom fermentering gør det nemmere for os at optage næringsindholdet. 
-    - Surdejsbrød har mendre gluten. Det bliver spist af gæren
-    - Læs mere her: https://www.healthline.com/nutrition/sourdough-bread#section6
-- Hvad er en surdej?
+  - Lokale råvarer trend, lave ting selv
+  - Fermentering
+  - Fokus på tarm bakterier
+- Hvorfor er surdejsbrød sundt?
+  - Langsom fermentering gør det nemmere for os at optage næringsindholdet. 
+  - Surdejsbrød har mendre gluten. Det bliver spist af gæren
+  - Læs mere her: https://www.healthline.com/nutrition/sourdough-bread#section6
+- Hvad er en surdej? 
   - Mel og vand
   - Gærceller
   - Lactobasillus - bakterie
