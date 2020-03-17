@@ -11,6 +11,8 @@
   - Det er en introduktion til surdejens verden!
   - Jeg synes lidt der mangler en nem intro til surdej.
   - Spørg spørg spørg
+- Corona
+  - Det blev lidt for negativ, og lidt for meget pege fingre, så lad os følge sundhedsstyrelsen anbefalinger og stå sammen ved at  hjælpe hinanden
   - Opfordre til at skrive til en læge/sygeplejerske og høre om man kan hjælpe med mad/pasning/oprydning.
   - Opfordre til at gå lidt længere med at hjælpe andre!
 - Hvad er et surdejsbrød og hvorfor er det blevet så populært
