@@ -25,6 +25,12 @@
   - Lactobasillus - bakterie
  
 Lad os lave den første surdej!
+
+## Hvad sker der når man bager et surdejsbrød?
+
+
+## Hvilket mel?
+Højt glutenindhold
       
 ## Starte surdejen
 - Dag 1
