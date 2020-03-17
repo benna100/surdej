@@ -11,6 +11,8 @@
   - Det er en introduktion til surdejens verden!
   - Jeg synes lidt der mangler en nem intro til surdej.
   - Spørg spørg spørg
+  - Opfordre til at skrive til en læge/sygeplejerske og høre om man kan hjælpe med mad/pasning/oprydning.
+  - Opfordre til at gå lidt længere med at hjælpe andre!
 - Hvad er et surdejsbrød og hvorfor er det blevet så populært
   - Det er sådan brød altid er blevet bagt
   - Hvorfor er surdejsbrød sundt?
