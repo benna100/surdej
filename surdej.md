@@ -34,21 +34,25 @@
  
 Lad os lave den første surdej!
 
-## Starte surdejen
-- Dag 1
+## Program
+### Dag 1
+Surdej opskrift
   - 100 g lunkent vand
   - 100 g mel
   - Klæde over
-- Dag 2
-  - Det allervigtigste: hvad hedder jeres surdej?
-  - Hvordan går det med folks surdej, er der bobler? Hvor mange, hvordan lugter den?
-  - Prøv at smage på den. Hvad smager det af?
-  - Nu skal vi til at lade surdejen lige så stille stå på egne ben. 
-  - Den skal aktiveres! 
+
+### Dag 2
+- Det allervigtigste: hvad hedder jeres surdej?
+- Hvordan går det med folks surdej, er der bobler? Hvor mange, hvordan lugter den?
+- Prøv at smage på den. Hvad smager det af?
+- Nu skal vi til at lade surdejen lige så stille stå på egne ben. 
+- Den skal aktiveres! 
+#### Surdejs opskrift
   - 100 g surdej fra igår
   - 50 g lunkent vand
   - 50 g mel
-- Dag 3
+
+### Dag 3
   - 50 g surdej fra igår
   - 75 g lunkent vand
   - 75 g mel
