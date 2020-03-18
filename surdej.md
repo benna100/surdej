@@ -47,11 +47,13 @@ Surdej opskrift
 - Prøv at smage på den. Hvad smager det af?
 - Nu skal vi til at lade surdejen lige så stille stå på egne ben. 
 - Den skal aktiveres! 
+
 #### Surdejs opskrift
   - 100 g surdej fra igår
   - 50 g lunkent vand
   - 50 g mel
 
+Den resterende surdej kan i gemme og putte i vafler, pandekager, knækbrød, etc muligt: https://www.kingarthurflour.com/recipes/collections/sourdough-discard-recipes
 ### Dag 3
 - Vi skal selvfølgelig smage på den igen
 - I skal begynde at lære jeres surdej at kende
