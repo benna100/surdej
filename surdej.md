@@ -53,6 +53,10 @@ Surdej opskrift
   - 50 g mel
 
 ### Dag 3
+- Vi skal selvfølgelig smage på den igen
+- I skal begynde at lære jeres surdej at kende
+
+#### Surdejs opskrift
   - 50 g surdej fra igår
   - 75 g lunkent vand
   - 75 g mel
