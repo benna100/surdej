@@ -40,6 +40,11 @@ Lad os lave den første surdej!
   - 100 g mel
   - Klæde over
 - Dag 2
+  - Det allervigtigste: hvad hedder jeres surdej?
+  - Hvordan går det med folks surdej, er der bobler? Hvor mange, hvordan lugter den?
+  - Prøv at smage på den. Hvad smager det af?
+  - Nu skal vi til at lade surdejen lige så stille stå på egne ben. 
+  - Den skal aktiveres! 
   - 100 g surdej fra igår
   - 50 g lunkent vand
   - 50 g mel
@@ -50,7 +55,15 @@ Lad os lave den første surdej!
 
 ## Aktivere surdejen
 
-- To formål
+- Hvad vil det sige at aktivere en surdej?
+Det vil sige at aktivere gærcellerne i surdejen. Hvis gærcellerne er kolde, skal de vækkes op igen. Hvis de ikke har mere mad skal de have mere at spise. 
+`The flour contains enzymes--they were there in the original wheat kernels.  Some break down proteins, some break down starches. Those that break down starches convert a small portion of the starches into sugars. That's what the yeast consumes in doughs. A long, slow fermentation gives the enzymes more time to work, which yields more sugar.  Not only does this benefit the yeast, it also improves flavor and contributes to browning of the crust. `
+
+- Er min surdej død?
+Hæld halvdelen fra. tilsæt mel og vand 50:50 så der er ligeså meget surdej som du startede. Vent en eller to dage. 
+
+### Sådan gør du
+DU kan aktivere en surdej med to formål:
   1. Ska du bage?
     - Regn ud hvor meget surdej du skal bruge. Husk der skal være lidt ekstra for at fortsætte surdejen.
   2. Ska du bare holde surdejen i live?
