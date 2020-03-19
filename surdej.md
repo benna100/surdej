@@ -54,14 +54,26 @@ Surdej opskrift
   - 50 g mel
 
 Den resterende surdej kan i gemme og putte i vafler, pandekager, knækbrød, etc muligt: https://www.kingarthurflour.com/recipes/collections/sourdough-discard-recipes
+
 ### Dag 3
 - Vi skal selvfølgelig smage på den igen
 - I skal begynde at lære jeres surdej at kende
+- Lad os snakke lidt om at holde en surdej
+- Snakke om hvordan man ved en surdej er klar
+- Forklar om hvad vi skal imorgen
 
 #### Surdejs opskrift
-  - 50 g surdej fra igår
-  - 75 g lunkent vand
-  - 75 g mel
+  - 20 g surdej fra igår
+  - 40 g lunkent vand
+  - 40 g mel
+
+### Dag 4
+
+#### Surdejs opskrift til om morgenen så vi er klar til at bage boller om aftenen
+  - 20 g surdej fra igår
+  - 40 g lunkent vand
+  - 40 g mel
+
 
 ## Aktivere surdejen
 
@@ -69,8 +81,6 @@ Den resterende surdej kan i gemme og putte i vafler, pandekager, knækbrød, etc
 Det vil sige at aktivere gærcellerne i surdejen. Hvis gærcellerne er kolde, skal de vækkes op igen. Hvis de ikke har mere mad skal de have mere at spise. 
 `The flour contains enzymes--they were there in the original wheat kernels.  Some break down proteins, some break down starches. Those that break down starches convert a small portion of the starches into sugars. That's what the yeast consumes in doughs. A long, slow fermentation gives the enzymes more time to work, which yields more sugar.  Not only does this benefit the yeast, it also improves flavor and contributes to browning of the crust. `
 
-- Er min surdej død?
-Hæld halvdelen fra. tilsæt mel og vand 50:50 så der er ligeså meget surdej som du startede. Vent en eller to dage. 
 
 ### Sådan gør du
 DU kan aktivere en surdej med to formål:
@@ -98,3 +108,16 @@ Når den enten kan flyde i vand. Tage en ske og put en lille smule i vand. Eller
 - Bag 5 min fuld smæk på ovnen, gerne med lidt damp (hæld vand i en bradepande i bunden af ovnen)
 - Bag 10 min. eller til bollerne er færdige på 200 grader
   
+
+## FAQ
+
+### Hvordan skal jeg opbevare mit brød?
+I et viskestykke er rigtig fint
+
+### Hvilket mel skal jeg bruge
+Det kommer an på hvad du vil med brødet! Men generelt med med højt proteinindhold har højt glutenindhold. Vi kan dermed nemmer fange CO2'en i brødet.
+
+### Er min surdej død?
+Hæld halvdelen fra. tilsæt mel og vand 50:50 så der er ligeså meget surdej som du startede. Vent en eller to dage. Hvis der ikke kommer bobler, så er den død! 
+
+### 
