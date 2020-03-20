@@ -70,10 +70,11 @@ Den resterende surdej kan i gemme og putte i vafler, pandekager, knækbrød, etc
 ### Dag 4
 
 #### Surdejs opskrift til om morgenen så vi er klar til at bage boller om aftenen
-  - 40 g surdej fra igår
-  - 30 g lunkent vand
-  - 30 g mel
+- 40 g surdej fra igår
+- 30 g lunkent vand
+- 30 g mel
 
+#### Aften
 - Surdejsstatus
 - Hvordan aktiverer jeg en surdej til at bage med? 
     - Tjek hvor meget surdej du ska bruge i din opskrift, husk at have noget til overs
