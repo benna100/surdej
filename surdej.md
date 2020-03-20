@@ -87,13 +87,12 @@ Den resterende surdej kan i gemme og putte i vafler, pandekager, knækbrød, etc
   2. Lav en hvede mels dejs, kom salt og surdej i, med højt gluten indhold. Hvorfor og hvordan kan vi tjekke at gluten er højt i mel?
   3. Lav en dej. Lad den stå 30 min. Kom salt og surdej i. Fold brødet 3-4 gange over 4 timer. Når dejen er hævet ca 40% sæt på køl. Bag morgenen efter.
 
-#### Bolle opskrift til ca 6 boller
-- 300 g mel
+#### Bolle opskrift til ca 7 boller
+- 250 g mel
 - 90 g surdej
 - 8 g salt
-- 210 g vand
+- 180 g vand
 
-Surdejsstatus
 
 ## Aktivere surdejen
 
