@@ -88,10 +88,10 @@ Den resterende surdej kan i gemme og putte i vafler, pandekager, knækbrød, etc
   3. Lav en dej. Lad den stå 30 min. Kom salt og surdej i. Fold brødet 3-4 gange over 4 timer. Når dejen er hævet ca 40% sæt på køl. Bag morgenen efter.
 
 #### Bolle opskrift til ca 6 boller
-300 g mel
-90 g surdej
-8 g salt
-210 g vand
+- 300 g mel
+- 90 g surdej
+- 8 g salt
+- 210 g vand
 
 Surdejsstatus
 
