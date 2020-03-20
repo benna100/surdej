@@ -74,12 +74,31 @@ Den resterende surdej kan i gemme og putte i vafler, pandekager, knækbrød, etc
 - 30 g lunkent vand
 - 30 g mel
 
+
 #### Aften
 - Første surdejslektion! Du bestemmer ikke over surdejen, den har sku sit eget liv!
 - Surdejsstatus
 - Hvordan aktiverer jeg en surdej til at bage med? 
     - Tjek hvor meget surdej du ska bruge i din opskrift, husk at have noget til overs
     - lad os sige du ska bruge 180 g surdej, hva gør du?
+
+
+#### Bolle opskrift til ca 7 boller
+- 250 g mel
+- 90 g surdej
+- 8 g salt
+- 180 g vand
+
+
+### Dag 5 - Lørdag d. 20/3
+Morgen:
+- 100 g surdej fra igår
+- 60 g lunkent vand
+- 60 g mel
+
+Så har vi nemlig 180 g surdej til vores boller og 40 g surdej vi kan fodre videre.
+
+#### Aften
 - Prøv at eksperimentere lidt med dejen
 - Husk at aktivere din surdej inden du bager, hvordan gør vi det?
   - Hvordan ved vi at surdejen er klar? 
@@ -87,12 +106,6 @@ Den resterende surdej kan i gemme og putte i vafler, pandekager, knækbrød, etc
   1. Lav en hvilken som helst dej, kom salt og surdej i. Lad hæve over natten ved stuetemperatur, færdig
   2. Lav en hvede mels dejs, kom salt og surdej i, med højt gluten indhold. Hvorfor og hvordan kan vi tjekke at gluten er højt i mel?
   3. Lav en dej. Lad den stå 30 min. Kom salt og surdej i. Fold brødet 3-4 gange over 4 timer. Når dejen er hævet ca 40% sæt på køl. Bag morgenen efter.
-
-#### Bolle opskrift til ca 7 boller
-- 250 g mel
-- 90 g surdej
-- 8 g salt
-- 180 g vand
 
 
 ## Aktivere surdejen
