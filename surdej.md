@@ -75,6 +75,7 @@ Den resterende surdej kan i gemme og putte i vafler, pandekager, knækbrød, etc
 - 30 g mel
 
 #### Aften
+- Første surdejslektion! Du bestemmer ikke over surdejen, den har sku sit eget liv!
 - Surdejsstatus
 - Hvordan aktiverer jeg en surdej til at bage med? 
     - Tjek hvor meget surdej du ska bruge i din opskrift, husk at have noget til overs
