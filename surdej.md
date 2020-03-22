@@ -108,6 +108,22 @@ Så har vi nemlig 180 g surdej til vores boller og 40 g surdej vi kan fodre vide
 - 21 g salt
 - 360 g vand
 
+### Dag 6 - Søndag d. 20/3
+- Glemte at sige at fodre jeres surdej igår, hvor mange gjorde det?
+- Vis gluten hvis jeg kan
+
+#### Bage brødene
+1. Tænd ovnen på max, gerne med en pizzasten (hvis man har) og en bradepande. Sørg for der er en bageplade inde i ovnen der bliver varmet godt op.
+2. Når ovnen har nået max, udstyk bollerne på et stykke bagepapir:
+  1. Enten brug en ske og lav klatboller
+  2. Eller brug en dejskraber og skær bollderne ud. Der må gerne komme noget spænding i overfladen
+3. Drys kerner, havregryn, birkes ovenpå
+4. Hæld vand i bradepanden/put et par isterninger i (har længere damp i ovnen)
+5. Tag bagepladen ud af ovnen og hiv bollerne over på og smid ind i ovnen.
+6. 5 min på ovnens max, omkring 10 min/ til de er færdige på 200 grader
+7. Vent helst til de er blevet kolde/lunkne før i skærer dem op. Ellers kan de godt virke ret sjaskede
+  
+
 ## Aktivere surdejen
 
 - Hvad vil det sige at aktivere en surdej?
