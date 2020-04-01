@@ -1,128 +1,24 @@
 # Surdej surdej surdej
 
-## Program
+## Program 
 
-### Tirsdag
-- Kort introduktion
-- Min erfaring med surdejsbrød
-- Hvad kan i forvente af det her kursus?
-  - Vi laver sammen en surdej
-  - Fokus er på at bage boller der er nemme at lave og som smager godt!
-  - Det er en introduktion til surdejens verden!
-  - Jeg synes lidt der mangler en nem intro til surdej.
-  - Spørg spørg spørg
-- Corona
-  - Det blev lidt for negativ, og lidt for meget pege fingre, så lad os følge sundhedsstyrelsen anbefalinger og stå sammen ved at  hjælpe hinanden
-  - Opfordre til at skrive til en læge/sygeplejerske og høre om man kan hjælpe med mad/pasning/oprydning.
-  - Opfordre til at gå lidt længere med at hjælpe andre!
-- Hvad er et surdejsbrød og hvorfor er det blevet så populært
-  - Det er sådan brød altid er blevet bagt
-  - Lokale råvarer trend, lave ting selv
-  - Fermentering
-  - Fokus på tarm bakterier
-- Hvorfor er surdejsbrød sundt?
-  - Langsom fermentering gør det nemmere for os at optage næringsindholdet. 
-  - Surdejsbrød har mendre gluten. Det bliver spist af gæren
-  - Læs mere her: https://www.healthline.com/nutrition/sourdough-bread#section6
-- Hvad er en surdej? 
-  - Mel og vand
-  - Gærceller
-  - Lactobasillus - bakterie
-- Hvad sker der når man bager et surdejsbrød?
-- Hvilket mel?
-  - Højt glutenindhold
- 
-Lad os lave den første surdej!
+| Dato | Tidspunkt  | Tema  |   |   |
+|---|---|---|---|---|
+| Søndag d. 5/4  | 20:30  | Intro til surdej  |   |   |
+| Tirsdag d. 7/4 | 20:30  | Første aktivering  |   |   |
+| Onsdag d. 8/4 | 20:30  | Holde en surdej og aktivere en surdej til bagning |   |   |
+| Fredag d. 10/4 | 20:30  | Lave bolledej |   |   |
+| Lørdag d. 11/4 | 09:00  | Bage bollerne  |   |   |
 
-## Program
-### Dag 1
-Surdej opskrift
-  - 100 g lunkent vand
-  - 100 g mel
-  - Klæde over
-
-### Dag 2
-- Det allervigtigste: hvad hedder jeres surdej?
-- Hvordan går det med folks surdej, er der bobler? Hvor mange, hvordan lugter den?
-- Prøv at smage på den. Hvad smager det af?
-- Nu skal vi til at lade surdejen lige så stille stå på egne ben. 
-- Den skal aktiveres! 
-
-#### Surdejs opskrift
-  - 100 g surdej fra igår
-  - 50 g lunkent vand
-  - 50 g mel
-
-Den resterende surdej kan i gemme og putte i vafler, pandekager, knækbrød, etc muligt: https://www.kingarthurflour.com/recipes/collections/sourdough-discard-recipes
-
-### Dag 3
-- Vi skal selvfølgelig smage på den igen
-- I skal begynde at lære jeres surdej at kende
-- Lad os snakke lidt om at holde en surdej
-- Snakke om hvordan man ved en surdej er klar
-- Forklar om hvad vi skal imorgen
-
-#### Surdejs opskrift
-  - 40 g surdej fra igår
-  - 30 g lunkent vand
-  - 30 g mel
-
-### Dag 4
-
-#### Surdejs opskrift til om morgenen så vi er klar til at bage boller om aftenen
-- 40 g surdej fra igår
-- 30 g lunkent vand
-- 30 g mel
-
-
-#### Aften
-- Første surdejslektion! Du bestemmer ikke over surdejen, den har sku sit eget liv!
-- Surdejsstatus
-- Hvordan aktiverer jeg en surdej til at bage med? 
-    - Tjek hvor meget surdej du ska bruge i din opskrift, husk at have noget til overs
-    - lad os sige du ska bruge 180 g surdej, hva gør du?
-
-### Dag 5 - Lørdag d. 20/3
-Morgen:
-- 100 g surdej fra igår
-- 60 g lunkent vand
-- 60 g mel
-
-Så har vi nemlig 180 g surdej til vores boller og 40 g surdej vi kan fodre videre.
-
-#### Aften
-- Prøv at eksperimentere lidt med dejen
-- Husk at aktivere din surdej inden du bager, hvordan gør vi det?
-  - Hvordan ved vi at surdejen er klar? 
-- Luftigheds vs effort niveau
-  1. Lav en hvilken som helst dej, kom salt og surdej i. Lad hæve over natten ved stuetemperatur, færdig
-  2. Lav en hvede mels dejs, kom salt og surdej i, med højt gluten indhold. Hvorfor og hvordan kan vi tjekke at gluten er højt i mel?
-  3. Lav en dej. Lad den stå 30 min. Kom salt og surdej i. Fold brødet 3-4 gange over 4 timer. Når dejen er hævet ca 40% sæt på køl. Bag morgenen efter.
-- Hvilket mel
-- Surdejen: i skal ned på forholdet 1:10:10 måske endda 1:20:20. Dvs 10 g surdej til 90 g ny dej
-- Er den død? fodr den et par gange, hvis den ikke begynder at komme til live efter 3-4 gange, så start en ny op.
-
-#### Bolle opskrift til ca 15 boller
-- 500 g mel
-- 180 g surdej
-- 21 g salt
-- 360 g vand
-
-### Dag 6 - Søndag d. 20/3
-- Glemte at sige at fodre jeres surdej igår, hvor mange gjorde det?
-- Vis gluten hvis jeg kan
-
-#### Bage brødene
-1. Tænd ovnen på max, gerne med en pizzasten (hvis man har) og en bradepande. Sørg for der er en bageplade inde i ovnen der bliver varmet godt op.
-2. Når ovnen har nået max, udstyk bollerne på et stykke bagepapir:
-  1. Enten brug en ske og lav klatboller
-  2. Eller brug en dejskraber og skær bollderne ud. Der må gerne komme noget spænding i overfladen
-3. Drys kerner, havregryn, birkes ovenpå
-4. Hæld vand i bradepanden/put et par isterninger i (har længere damp i ovnen)
-5. Tag bagepladen ud af ovnen og hiv bollerne over på og smid ind i ovnen.
-6. 5 min på ovnens max, omkring 10 min/ til de er færdige på 200 grader
-7. Vent helst til de er blevet kolde/lunkne før i skærer dem op. Ellers kan de godt virke ret sjaskede
-  
+## Surdejs fodrings program
+| Dato | tidspunkt  | Opskrift  |   |   |
+|---|---|---|---|---|
+| Søndag d. 5/4  | 20:30  | 50g mel, 50g vand  |   |   |
+| Tirsdag d. 7/4 | 20:30  | 50g surdej, 25g mel, 25g vand  |   |   |
+| Onsdag d. 8/4 | 20:30  | 50g surdej, 25g mel, 25g vand |   |   |
+| Torsdag d. 9/4 | 20:30  | 40g surdej, 30g mel, 30g vand |   |   |
+| Fredag d. 10/4 | 09:00  | 30g surdej, 50g mel, 50g vand  |   |   |
+| Fredag d. 10/4 | 20:30  | Surdej skal være aktiv! |   |   |
 
 ## Aktivere surdejen
 
@@ -149,14 +45,13 @@ Når den enten kan flyde i vand. Tage en ske og put en lille smule i vand. Eller
 
 ## Bage surdejsboller
 - Aktiver din surdej 8 timer før
-- Lav en dej der ikke er alt for løbende
+- Lav en dej der er fast
 - Tilsæt salt og surdej
 - Lad stå natten over
-- Klat med ud på en bageplade
+- Klat den ud på en bageplade
 - Evt kom kerner ovenpå
 - Bag 5 min fuld smæk på ovnen, gerne med lidt damp (hæld vand i en bradepande i bunden af ovnen)
 - Bag 10 min. eller til bollerne er færdige på 200 grader
-  
 
 ## FAQ
 
@@ -164,9 +59,13 @@ Når den enten kan flyde i vand. Tage en ske og put en lille smule i vand. Eller
 I et viskestykke er rigtig fint
 
 ### Hvilket mel skal jeg bruge
-Det kommer an på hvad du vil med brødet! Men generelt med med højt proteinindhold har højt glutenindhold. Vi kan dermed nemmer fange CO2'en i brødet.
+Det kommer an på hvad du vil med brødet! Men generelt med med højt proteinindhold har højt glutenindhold. Vi kan dermed nemmer fange CO2'en i brødet med masser af gluten
 
 ### Er min surdej død?
 Hæld halvdelen fra. tilsæt mel og vand 50:50 så der er ligeså meget surdej som du startede. Vent en eller to dage. Hvis der ikke kommer bobler, så er den død! 
 
-### 
+## Opskrifter
+- Knækbrød: https://www.cathrinebrandt.dk/surdejsknaekbroed-med-froe-og-kerner/
+- Surdejsbrød: https://www.cathrinebrandt.dk/grydebroed-med-hvede-og-rug/
+- Min ret detaljerede plan: https://benna100.github.io/easy-sourdough/#/easy-sourdough/sourdough
+- Min onkels rugbrød (den kan ikke slå fejl siger han): https://docs.google.com/document/d/1GLJ-_2b4tyo55cZKhlONdSGEogluV6Vm3N4yQXG-LEg/edit?usp=sharing
