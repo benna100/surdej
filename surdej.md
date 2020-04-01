@@ -3,7 +3,7 @@
 ## Program 
 
 | Dato | Tidspunkt  | Tema  |
-|---|---|---|---|---|
+|---|---|---|
 | Søndag d. 5/4  | 20:30  | Intro til surdej  |
 | Tirsdag d. 7/4 | 20:30  | Første aktivering  |
 | Onsdag d. 8/4 | 20:30  | Holde en surdej og aktivere en surdej til bagning |
@@ -12,7 +12,7 @@
 
 ## Surdejs fodrings program
 | Dato | tidspunkt  | Opskrift  |
-|---|---|---|---|---|
+|---|---|---|
 | Søndag d. 5/4  | 20:30  | 50g mel, 50g vand  |
 | Tirsdag d. 7/4 | 20:30  | 50g surdej, 25g mel, 25g vand  |
 | Onsdag d. 8/4 | 20:30  | 50g surdej, 25g mel, 25g vand |
