@@ -28,7 +28,7 @@ Det vil sige at aktivere gærcellerne i surdejen. Hvis gærcellerne er kolde, sk
 
 
 ### Sådan gør du
-DU kan aktivere en surdej med to formål:
+Du kan aktivere en surdej med to formål:
   1. Ska du bage?
     - Regn ud hvor meget surdej du skal bruge. Husk der skal være lidt ekstra for at fortsætte surdejen.
   2. Ska du bare holde surdejen i live?
