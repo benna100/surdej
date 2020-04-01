@@ -96,6 +96,9 @@ Den resterende surdej kan i gemme og putte i vafler, pandekager, knækbrød, etc
   - Finde en god rutine med at fodre din surdej, der passer dig
   - [Kast dig ud i noget der er lidt sværere](surdej.md#opskrifter)
   - Post på slack hvordan det går og stil gerne spørgsmål
+  - Den glade surdej på Facebook: https://www.facebook.com/groups/587652217948290
+  - https://www.reddit.com/r/Breadit/
+  - https://www.instagram.com/cathrinebrandtdk/
 
 
 ## Facebook post
