@@ -2,23 +2,23 @@
 
 ## Program 
 
-| Dato | Tidspunkt  | Tema  |   |   |
+| Dato | Tidspunkt  | Tema  |
 |---|---|---|---|---|
-| Søndag d. 5/4  | 20:30  | Intro til surdej  |   |   |
-| Tirsdag d. 7/4 | 20:30  | Første aktivering  |   |   |
-| Onsdag d. 8/4 | 20:30  | Holde en surdej og aktivere en surdej til bagning |   |   |
-| Fredag d. 10/4 | 20:30  | Lave bolledej |   |   |
-| Lørdag d. 11/4 | 09:00  | Bage bollerne  |   |   |
+| Søndag d. 5/4  | 20:30  | Intro til surdej  |
+| Tirsdag d. 7/4 | 20:30  | Første aktivering  |
+| Onsdag d. 8/4 | 20:30  | Holde en surdej og aktivere en surdej til bagning |
+| Fredag d. 10/4 | 20:30  | Lave bolledej |
+| Lørdag d. 11/4 | 09:00  | Bage bollerne  |
 
 ## Surdejs fodrings program
-| Dato | tidspunkt  | Opskrift  |   |   |
+| Dato | tidspunkt  | Opskrift  |
 |---|---|---|---|---|
-| Søndag d. 5/4  | 20:30  | 50g mel, 50g vand  |   |   |
-| Tirsdag d. 7/4 | 20:30  | 50g surdej, 25g mel, 25g vand  |   |   |
-| Onsdag d. 8/4 | 20:30  | 50g surdej, 25g mel, 25g vand |   |   |
-| Torsdag d. 9/4 | 20:30  | 40g surdej, 30g mel, 30g vand |   |   |
-| Fredag d. 10/4 | 09:00  | 30g surdej, 50g mel, 50g vand  |   |   |
-| Fredag d. 10/4 | 20:30  | Surdej skal være aktiv! |   |   |
+| Søndag d. 5/4  | 20:30  | 50g mel, 50g vand  |
+| Tirsdag d. 7/4 | 20:30  | 50g surdej, 25g mel, 25g vand  |
+| Onsdag d. 8/4 | 20:30  | 50g surdej, 25g mel, 25g vand |
+| Torsdag d. 9/4 | 20:30  | 40g surdej, 30g mel, 30g vand |
+| Fredag d. 10/4 | 09:00  | 30g surdej, 50g mel, 50g vand  |
+| Fredag d. 10/4 | 20:30  | Surdej skal være aktiv! |
 
 ## Aktivere surdejen
 
